@@ -1,0 +1,4 @@
+[build]
+base = "goldenapp/"
+publish = "goldenapp/build/"
+command = "yarn build"
