@@ -2,3 +2,4 @@
 base = "goldenapp/"
 publish = "build/"
 command = "yarn build"
+
